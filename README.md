@@ -9,7 +9,7 @@ This project aims to fine-tune image generation models to create Apple-style emo
 ## Project Roadmap
 
 1. **Data Collection**
-   - Scrape emoji PNGs and descriptions from emojigraph.org
+   - Scrape emoji PNGs and descriptions from [emojigraph.org](https://emojigraph.org)
    - Process images to add white backgrounds (similar to Apple's approach)
    ![Example of Apple's GenMoji white background](assets/example_white_backround.png)
 

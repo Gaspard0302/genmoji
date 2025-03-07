@@ -39,7 +39,7 @@ def fetch_emoji_list():
                         full_url = f"https://emojigraph.org{processed_url}"
                         
                         # Create processed name
-                        processed_name = name.replace('-', ' ') + ' emoji'
+                        processed_name = name.replace('-', ' ')
                         
                         all_emoji_data.append({
                             'link': full_url,
